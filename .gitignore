@@ -1,6 +1,11 @@
-.DS_Store
-*.log
-tmp/**/*
-log/*
-db/*.sqlite3
-public/system
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
